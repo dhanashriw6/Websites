@@ -1,0 +1,141 @@
+#title{
+    background-color: rgb(232, 57, 92);
+    color: #fff;
+}
+
+h1{
+    font-family: "Montserrat";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+h3{
+    font-family:"Montserrat-Bold" ;
+}
+
+p{
+    color: darkgray;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+body{
+    font-family: "Montserrat";
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+    font-size: 1.2rem;
+}
+
+.db{
+    margin: 5% 3% 5% 0;
+}
+
+.titledog{
+    width: 60%;
+    transform: rotate(20deg);
+    margin-left: 5rem;
+    
+}
+
+#features{
+    padding: 7% 15%;
+    background-color: #fff;
+    
+    
+    
+}
+
+.feature{
+    padding: 5%;
+    text-align: center;
+}
+
+.icon{
+    color: lightcoral;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: rgb(177, 41, 41);
+}
+
+#testimonials{
+    
+    text-align: center;
+    background-color: lightcoral;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+h2{
+    color: #fff;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+   
+}
+
+.side{
+    color: #fff;
+}
+
+.dog{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: lightcoral;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.cardh2{
+    color: dimgray;
+}
+ #pricing{
+    padding: 100px;
+    text-align: center;
+ }
+
+ .pricingcol{
+    padding: 3% 2%;
+ }
+
+ #cta{
+    background-color:  rgb(232, 57, 92);
+    text-align: center;
+    font-family: "Montserrat";
+    padding: 7% 15%;
+    color: #fff;
+ }
+
+ #footer{
+    text-align: center;
+    padding: 5%;
+ }
+
+ .social{
+    padding: 2rem 0.5rem;
+ }
